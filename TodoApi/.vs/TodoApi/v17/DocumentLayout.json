@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\sodie\\Coding\\Projects\\WebAPI-Tut\\WebAPI\\TodoApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB77EC7C-0515-4DDD-9B6C-7B84C3600654}|TodoApi\\TodoApi.csproj|c:\\users\\sodie\\coding\\projects\\webapi-tut\\webapi\\todoapi\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB77EC7C-0515-4DDD-9B6C-7B84C3600654}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB77EC7C-0515-4DDD-9B6C-7B84C3600654}|TodoApi\\TodoApi.csproj|c:\\users\\sodie\\coding\\projects\\webapi-tut\\webapi\\todoapi\\todoapi\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB77EC7C-0515-4DDD-9B6C-7B84C3600654}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB77EC7C-0515-4DDD-9B6C-7B84C3600654}|TodoApi\\TodoApi.csproj|c:\\users\\sodie\\coding\\projects\\webapi-tut\\webapi\\todoapi\\todoapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB77EC7C-0515-4DDD-9B6C-7B84C3600654}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB77EC7C-0515-4DDD-9B6C-7B84C3600654}|TodoApi\\TodoApi.csproj|c:\\users\\sodie\\coding\\projects\\webapi-tut\\webapi\\todoapi\\todoapi\\models\\todoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB77EC7C-0515-4DDD-9B6C-7B84C3600654}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\models\\todoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB77EC7C-0515-4DDD-9B6C-7B84C3600654}|TodoApi\\TodoApi.csproj|c:\\users\\sodie\\coding\\projects\\webapi-tut\\webapi\\todoapi\\todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,21 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sodie\\Coding\\Projects\\WebAPI-Tut\\WebAPI\\TodoApi\\TodoApi\\Program.cs",
-              "RelativeDocumentMoniker": "TodoApi\\Program.cs",
-              "ToolTip": "C:\\Users\\sodie\\Coding\\Projects\\WebAPI-Tut\\WebAPI\\TodoApi\\TodoApi\\Program.cs",
-              "RelativeToolTip": "TodoApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T09:33:13.246Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -47,15 +34,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TodoContext.cs",
-              "DocumentMoniker": "C:\\Users\\sodie\\Coding\\Projects\\WebAPI-Tut\\WebAPI\\TodoApi\\TodoApi\\Models\\TodoContext.cs",
-              "RelativeDocumentMoniker": "TodoApi\\Models\\TodoContext.cs",
-              "ToolTip": "C:\\Users\\sodie\\Coding\\Projects\\WebAPI-Tut\\WebAPI\\TodoApi\\TodoApi\\Models\\TodoContext.cs",
-              "RelativeToolTip": "TodoApi\\Models\\TodoContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "DocumentIndex": 0,
+              "Title": "TodoItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\sodie\\Coding\\Projects\\WebAPI-Tut\\WebAPI\\TodoApi\\TodoApi\\Controllers\\TodoItemsController.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Controllers\\TodoItemsController.cs",
+              "ToolTip": "C:\\Users\\sodie\\Coding\\Projects\\WebAPI-Tut\\WebAPI\\TodoApi\\TodoApi\\Controllers\\TodoItemsController.cs",
+              "RelativeToolTip": "TodoApi\\Controllers\\TodoItemsController.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAmwFQAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T09:30:27.783Z",
+              "WhenOpened": "2024-07-29T12:28:54.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sodie\\Coding\\Projects\\WebAPI-Tut\\WebAPI\\TodoApi\\TodoApi\\Models\\TodoItemDTO.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Models\\TodoItemDTO.cs",
+              "ToolTip": "C:\\Users\\sodie\\Coding\\Projects\\WebAPI-Tut\\WebAPI\\TodoApi\\TodoApi\\Models\\TodoItemDTO.cs",
+              "RelativeToolTip": "TodoApi\\Models\\TodoItemDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T13:28:54.463Z",
               "EditorCaption": ""
             },
             {
@@ -66,9 +66,9 @@
               "RelativeDocumentMoniker": "TodoApi\\Models\\TodoItem.cs",
               "ToolTip": "C:\\Users\\sodie\\Coding\\Projects\\WebAPI-Tut\\WebAPI\\TodoApi\\TodoApi\\Models\\TodoItem.cs",
               "RelativeToolTip": "TodoApi\\Models\\TodoItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T09:27:52.611Z",
+              "WhenOpened": "2024-07-29T13:27:51.654Z",
               "EditorCaption": ""
             }
           ]
